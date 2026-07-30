@@ -9,5 +9,3 @@ This portfolio showcases my AI and Machine Learning projects.
 ## Live Portfolio
 https://mostafaattia-creator.github.io/portfolio/
 
-## Technologies
-HTML, CSS, JavaScript, Python, PyTorch, OpenCV, YOLO, Streamlit
