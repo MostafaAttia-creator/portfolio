@@ -7,7 +7,7 @@ This portfolio showcases my AI and Machine Learning projects.
 - Smart Parking Detection (YOLO11 + ByteTrack)
 
 ## Live Portfolio
-https://mostafaatia-creator.github.io/portfolio/
+https://mostafaattia-creator.github.io/portfolio/
 
 ## Technologies
 HTML, CSS, JavaScript, Python, PyTorch, OpenCV, YOLO, Streamlit
